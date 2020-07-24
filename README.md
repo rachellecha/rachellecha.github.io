@@ -1,3 +1,3 @@
 # my portfolio
 
-[rachellecha.github.io](rachellecha.github.io)
+[rachellecha.github.io](https://rachellecha.github.io/)
